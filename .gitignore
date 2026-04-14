@@ -1,0 +1,15 @@
+# Object files
+*.o
+
+# Executables
+*.out
+*.exe
+mini_supervisor
+crasher
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
